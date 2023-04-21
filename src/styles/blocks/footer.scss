@@ -7,13 +7,10 @@
   @include onTablet {
     height: 480px;
     background-image: url(../images/footer-tablet.png);
-    
   }
 
   @include onDesktop() {
     height: 555px;
     background-image: url(../images/footer-desktop.png);
-    
   }
-
 }
